@@ -1,4 +1,3 @@
-import bs4 as bs
 import MySQLdb
 import requests
 import json
